@@ -1,0 +1,27 @@
+FuzzyToolkitUoN-package
+                        Type 1 Fuzzy Logic Toolkit
+addMF                   Insert a membership function.
+addRule                 Inserts a rule
+addVar                  Insert a variable
+defuzz                  Defuzzify a set of values.
+evalFIS                 Evaluate a Fuzzy Inference System.
+evalMF                  Evaluation of a membership function.
+gaussMF                 Creates a gaussian membership function.
+gaussbMF                Create a gaussian bell membership function.
+gensurf                 Produce a graphical evaluated fuzzy inference
+                        system.
+meshgrid                Union of two vectors.
+mfValidate              Validate the input of a membership function.
+                        mfValidate
+nameValidate            Validate the name of an object.
+newFIS                  Create a FIS newFIS
+plotMF                  Plots a 2D graph of all membership functions in
+                        a variable.
+readFIS                 Read a FIS object from a .fis file. readFIS
+removeMF                Remove a membership function.
+removeVar               Remove a variable.
+showFIS                 Show a FIS object.
+tippertest              Produces an example FIS object.
+trapMF                  Create a trapezoidal membership function.
+triMF                   Create a triangular membership function.
+writeFIS                Write a FIS object to file.
